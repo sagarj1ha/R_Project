@@ -1,7 +1,9 @@
 # R Project
-# Telecom Churn Analysis Shiny App
+# Overview
+Telecom Churn Analysis is a critical task for telecommunications companies to understand and predict customer behavior. This Shiny app offers an interactive platform for visualizing and analyzing customer churn within the telecom industry. Utilizing the shiny, dplyr, and plotly packages, the app provides an engaging and informative user interface for exploring the relationships between different variables and their impact on customer churn.
 
-This Shiny app is designed for visualizing and analyzing customer churn in the telecom industry. It provides interactive plots and charts to explore the relationships between different variables and their impact on customer churn. The app utilizes the `shiny`, `dplyr`, and `plotly` packages for creating an engaging and informative user interface.
+
+![0_8Iu_eymr6eR-YuQw](https://github.com/sagarj1ha/R_Project/assets/111685221/bcd14258-787f-4fbe-9288-aeddc07cc20d)
 
 ## Getting Started
 
@@ -66,27 +68,19 @@ install.packages("shinythemes")
 
 ## Screenshots
 
-### Bar Chart
-![Bar Chart](screenshots/bar_chart.png)
+<img src ="https://github.com/sagarj1ha/R_Project/assets/111685221/ed8060ca-a055-45bc-a24e-0d6b45cd50d0" width="400">
 
-### 3D Scatter Plot
-![3D Scatter Plot](screenshots/scatter_plot.png)
+<img src ="https://github.com/sagarj1ha/R_Project/assets/111685221/845cda8b-8e1f-4c9a-a84a-613c7266de00" width="400">
 
-### Clustered Bar Chart
-![Clustered Bar Chart](screenshots/clustered_bar_chart.png)
+<img src ="https://github.com/sagarj1ha/R_Project/assets/111685221/dda6a45b-d839-451c-8858-2c5e8831520f" width="400">
 
-### Heatmap
-![Heatmap](screenshots/heatmap.png)
+<img src ="https://github.com/sagarj1ha/R_Project/assets/111685221/f3f0f683-6a83-48db-9cb8-819dfe9df478" width="400">
 
-### Line Chart
-![Line Chart](screenshots/line_chart.png)
-
-### Scatter Plot
-![Scatter Plot](screenshots/scatter_plot_simple.png)
+<img src ="https://github.com/sagarj1ha/R_Project/assets/111685221/54487549-ca44-4063-aa76-8dccd98a1f53" width="400">
 
 ## Contributors
 
 - [Vaishnavi Sharma](https://github.com/)
 - [Sagar Jha](https://github.com/sagarj1ha)
-
+  
 
