@@ -80,7 +80,7 @@ install.packages("shinythemes")
 
 ## Contributors
 
-- [Vaishnavi Sharma](https://github.com/)
+- [Vaishnavi Sharma](https://github.com/Vaishnavi18s)
 - [Sagar Jha](https://github.com/sagarj1ha)
   
 
